@@ -1,0 +1,29 @@
+Insert the following url "https://media.discordapp.net/attachments/1004699276376543232/" infront of the following prompts:
+
+Scene 1. Eva dreams of going on a grand treasure hunt and sets off on a quest to the secluded mountain range, cinematic scenery, cinematic lighting, digital painting, dark fantasy, --q 2 --ar 3:2
+
+Scene 2. Eva gathers supplies and sets sail on the small vessel, cinematic scenery, cinematic lighting, digital painting, dark fantasy, --q 2 --ar 3:2
+
+Scene 3. Eva is taken aback by the beauty of the vast valleys and deep ravines, cinematic scenery, cinematic lighting, digital painting, dark fantasy, --q 2 --ar 3:2
+
+Scene 4. Eva arrives at the destination and begins navigating through the mountain path, cinematic scenery, cinematic lighting, digital painting, dark fantasy, --q 2 --ar 3:2
+
+Scene 5. Eva forges ahead, crossing rushing rivers, scaling icy caves and trudging through unknown terrain, cinematic scenery, cinematic lighting, digital painting, dark fantasy, --q 2 --ar 3:2
+
+INSERT A URL INFRONT OF THE PROMPTS ABOVE:
+
+Scene 1. https://media.discordapp.net/attachments/1004699276376543232/ Eva dreams of going on a grand treasure hunt and sets off on a quest to the secluded mountain range, cinematic scenery, cinematic lighting, digital painting, dark fantasy, --q 2 --ar 3:2
+
+Scene 2. https://media.discordapp.net/attachments/1004699276376543232/ Eva gathers supplies and sets sail on the small vessel, cinematic scenery, cinematic lighting, digital painting, dark fantasy, --q 2 --ar 3:2
+
+Scene 3. https://media.discordapp.net/attachments/1004699276376543232/ Eva is taken aback by the beauty of the vast valleys and deep ravines, cinematic scenery, cinematic lighting, digital painting, dark fantasy, --q 2 --ar 3:2
+
+Scene 4. https://media.discordapp.net/attachments/1004699276376543232/ Eva arrives at the destination and begins navigating through the mountain path, cinematic scenery, cinematic lighting, digital painting, dark fantasy, --q 2 --ar 3:2
+
+Scene 5. https://media.discordapp.net/attachments/1004699276376543232/ Eva forges ahead, crossing rushing rivers, scaling icy caves and trudging through unknown terrain, cinematic scenery, cinematic lighting, digital painting, dark fantasy, --q 2 --ar 3:2
+
+Insert the url <<URL>> infront of the following prompts:
+
+<<MJP>>
+
+INSERT A URL INFRONT OF THE PROMPTS ABOVE:
